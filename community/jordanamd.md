@@ -13,7 +13,7 @@ Olá, meu nome é Jordana, tenho 34 anos e estou em transição de carreia. Depo
 
 
  
-**_Concte se Comigo_**
+**_Conecte-se Comigo_**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jordanamdamasceno)
 
